@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "keyheaven"
+version = "4.0.0"
+name = "KeyHeaven"
+tagline = "Procedural animation engine for Blender 5.x"
+maintainer = "Pipeline Technical Direction"
+type = "add-on"
+
+tags = ["Animation"]
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]

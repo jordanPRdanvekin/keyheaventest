@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups / temp
+*.bak
+*.blend1
+*.tmp
+
+# Build artifacts
+*.zip
